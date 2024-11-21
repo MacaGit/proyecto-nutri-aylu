@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-container{
+    background-color: rgb(125, 173, 125);
+    height: 80px;
+    width: 100%
+}
+
+#navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px
+}
+
+ul{
+    list-style-type: none;
+}
